@@ -1,6 +1,7 @@
 - 👋 starblazing!!
 - 🥕 fl studio 21.2 user
 - 🐍 python programmer.
+- 🖥️ GNU nano enjoyer
 - 🌱 i'm learning rust.
 - 📫 @strblzng on discord
 
